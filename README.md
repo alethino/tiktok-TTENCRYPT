@@ -1,3 +1,7 @@
+### contact me
+**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
+## telegram: @Neo_Galaxy
+
 
 testig api
 
@@ -27,11 +31,6 @@ testig api
 19. unfollow user
 20. create account
 21. resolve captcha
-
-
-### contact me
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
-## telegram: @Neo_Galaxy
 
 ### contact me
 ## Contact Telegram @Neo_Galaxy
