@@ -1,6 +1,6 @@
 ### contact me
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
-## telegram: @Neo_Galaxy
+**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
+## telegram: @alethino
 
 testig api
 
@@ -32,5 +32,5 @@ testig api
 21. resolve captcha
 
 ### contact me
-## Contact Telegram @Neo_Galaxy
-https://t.me/Neo_Galaxy
+## Contact Telegram @alethino
+https://t.me/alethino
